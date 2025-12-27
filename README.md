@@ -9,3 +9,4 @@ Tech Stack: Python, Streamlit, Scikit-learn, XGBoost, SHAP, LIME, Pandas, NumPy,
 - Integrated Explainable AI using SHAP for tree models and LIME for linear & non-tree models, providing transparency into predictions.
 - Created interactive UI to enter input values dynamically and generate prediction results & probability scores, with downloadable prediction logs.
 - Deployed using Streamlit + Ngrok/Streamlit Cloud for real-time user access.
+<img width="1894" height="866" alt="Screenshot 2025-12-27 183821" src="https://github.com/user-attachments/assets/649e80e1-fd33-4716-836d-5f9a54c766e4" />
